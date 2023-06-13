@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    height: 150vh;
+    font-family: 'Playfair', serif;
+
+
+
+}
+header{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background: rgb(110, 144, 179);
+    padding-bottom: 60px;
+}
+
+.contenedor-textos{
+    width: 50%;
+    color: #fff827;
+}
+h1{
+    font-weight: 900;
+    font-size: 85px;
+    margin: 30px;
+    text-shadow: 1px 3px 3px #000;
+
+}
+img{
+    width: 40%;
+    display: inline-block;
+
+}
+.wave{}
